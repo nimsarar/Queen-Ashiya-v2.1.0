@@ -7,10 +7,10 @@
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
-//▮
+//▮nimsarar57@gmail.com
+//▮WHATSAPP US : +94 741 538 531
+//▮YOUTUBE CHANNELL: https://youtube.com/channel/UCMyoabUVRvuUE-jlBH_rg4g
+//▮WHATSAPP GROUP : https://chat.whatsapp.com/KGGILe5XWCc5DZp84NpxbI
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
 //┏━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -41,10 +41,10 @@ global.owner = ['27634090203','']
 global.premium = ['27634090203','918188019676']
 global.botname = 'ZIM BOT INC'
 global.ownername = 'DRIPS'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
+global.group1 = 'https://chat.whatsapp.com/KGGILe5XWCc5DZp84NpxbI'
+global.group2 = 'https://chat.whatsapp.com/KGGILe5XWCc5DZp84NpxbI'
 global.packname = 'ZIM BOT INC'
-global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
+global.ytchannel = 'https://chat.whatsapp.com/KGGILe5XWCc5DZp84NpxbI'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
