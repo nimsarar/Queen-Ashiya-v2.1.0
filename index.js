@@ -7,10 +7,10 @@
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
-//▮
+//▮nimsarar57@gmail.com
+//▮WHATSAPP US : +94 741 538 531
+//▮YOUTUBE CHANNELL: https://youtube.com/channel/UCMyoabUVRvuUE-jlBH_rg4g
+//▮WHATASAPP GROUP: https://chat.whatsapp.com/KGGILe5XWCc5DZp84NpxbI
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
 //┏━━━━━━━━━━━━━━━━━━━━━━━━━
