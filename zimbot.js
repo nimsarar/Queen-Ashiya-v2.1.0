@@ -8,7 +8,7 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮nimsarar57@gmail.com
-//▮WHATSAPP US : +94 741 538 531
+//▮WHATSAPP US : +94741538531
 //▮YOUTUBE CHANNELL: https://youtube.com/channel/UCMyoabUVRvuUE-jlBH_rg4g
 //▮WHATSAPP GROUP : https://chat.whatsapp.com/KGGILe5XWCc5DZp84NpxbI
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -71,7 +71,7 @@ const setting = JSON.parse(fs.readFileSync('./apikey.json'))
 limitawal = '100'
 botname = 'ZIM BOT INC'
 wm = 'ZIM BOT INC'
-global.reactmoji = '🇿🇼'
+global.reactmoji = '🇱🇰'
 limitCount = setting.limit
 
 //read database
